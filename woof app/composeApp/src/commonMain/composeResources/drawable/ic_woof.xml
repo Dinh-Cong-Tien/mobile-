@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Background circle -->
+    <circle
+        android:fillColor="#FF9800"
+        android:cx="50"
+        android:cy="50"
+        android:r="48" />
+    <!-- Dog head simple -->
+    <circle
+        android:fillColor="#FFC107"
+        android:cx="50"
+        android:cy="45"
+        android:r="22" />
+    <!-- Left ear -->
+    <circle
+        android:fillColor="#FFA000"
+        android:cx="35"
+        android:cy="28"
+        android:r="8" />
+    <!-- Right ear -->
+    <circle
+        android:fillColor="#FFA000"
+        android:cx="65"
+        android:cy="28"
+        android:r="8" />
+    <!-- Nose -->
+    <circle
+        android:fillColor="#333333"
+        android:cx="50"
+        android:cy="42"
+        android:r="5" />
+    <!-- Left eye -->
+    <circle
+        android:fillColor="#333333"
+        android:cx="42"
+        android:cy="38"
+        android:r="3" />
+    <!-- Right eye -->
+    <circle
+        android:fillColor="#333333"
+        android:cx="58"
+        android:cy="38"
+        android:r="3" />
+    <!-- Tongue -->
+    <ellipse
+        android:fillColor="#FF1744"
+        android:cx="50"
+        android:cy="55"
+        android:rx="6"
+        android:ry="8" />
+    <!-- Paws -->
+    <rect
+        android:fillColor="#FFC107"
+        android:x="30"
+        android:y="62"
+        android:width="8"
+        android:height="15" />
+    <rect
+        android:fillColor="#FFC107"
+        android:x="46"
+        android:y="62"
+        android:width="8"
+        android:height="15" />
+    <rect
+        android:fillColor="#FFC107"
+        android:x="62"
+        android:y="62"
+        android:width="8"
+        android:height="15" />
+</vector>
+

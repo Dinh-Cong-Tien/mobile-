@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="110dp"
+    android:viewportWidth="120"
+    android:viewportHeight="110">
+
+    <!-- Gradient xanh lá → xanh dương (giống hệt ảnh bạn) -->
+    <path
+        android:pathData="M30,20 Q20,45 28,68 Q38,85 55,78 Q72,88 85,65 Q95,38 78,22 Q55,8 30,20 Z"
+        android:fillColor="#A5F2D0" />
+
+    <!-- 4 miếng đệm nhỏ (pads) màu gradient nhạt -->
+    <path
+        android:pathData="M38,68 Q33,78 37,82 Q42,80 45,73 Z"
+        android:fillColor="#7ED9B8" />
+    <path
+        android:pathData="M52,72 Q48,81 53,85 Q58,83 60,75 Z"
+        android:fillColor="#7ED9B8" />
+    <path
+        android:pathData="M68,65 Q65,74 70,78 Q75,76 77,68 Z"
+        android:fillColor="#7ED9B8" />
+    <path
+        android:pathData="M82,52 Q79,60 84,63 Q88,60 90,53 Z"
+        android:fillColor="#7ED9B8" />
+
+</vector>
+
