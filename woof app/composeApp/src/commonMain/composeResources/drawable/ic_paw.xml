@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <!-- Gradient xanh dương - xanh lá -->
+    <path
+        android:pathData="M12,8 Q8,18 12,28 Q20,38 28,32 Q36,38 42,26 Q46,14 38,8 Q28,2 12,8 Z"
+        android:fillColor="#4FC3F7" />
+
+    <!-- 4 chân nhỏ -->
+    <circle android:centerX="18" android:centerY="32" android:radius="5" android:fillColor="#81D4FA"/>
+    <circle android:centerX="26" android:centerY="35" android:radius="5" android:fillColor="#81D4FA"/>
+    <circle android:centerX="34" android:centerY="30" android:radius="5" android:fillColor="#81D4FA"/>
+</vector>
+

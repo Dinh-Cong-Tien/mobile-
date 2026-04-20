@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47951ea1-f362-40b3-b5a9-c159cd5d79d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Blur-O-Matic/untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blur-O-Matic/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blur-O-Matic/untitled/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blur-O-Matic/untitled/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blur-O-Matic/untitled/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blur-O-Matic/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blur-O-Matic/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blur-O-Matic/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blur-O-Matic/untitled/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blur-O-Matic/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/kotlin/tien/code/cupcake_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/kotlin/tien/code/cupcake_app/Platform.android.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/androidMain/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/commonMain/composeResources/drawable/compose-multiplatform.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/commonMain/composeResources/drawable/cupcake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/commonMain/kotlin/tien/code/cupcake_app/App.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/commonMain/kotlin/tien/code/cupcake_app/CupcakeScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/commonMain/kotlin/tien/code/cupcake_app/Greeting.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/commonMain/kotlin/tien/code/cupcake_app/Platform.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/commonMain/kotlin/tien/code/cupcake_app/ui/CupcakeImage.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/commonMain/kotlin/tien/code/cupcake_app/ui/FlavorScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/commonMain/kotlin/tien/code/cupcake_app/ui/PickupScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/commonMain/kotlin/tien/code/cupcake_app/ui/StartOrderScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/commonMain/kotlin/tien/code/cupcake_app/ui/SummaryScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/commonMain/kotlin/tien/code/cupcake_app/ui/components/SelectOptionScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/commonTest/kotlin/tien/code/cupcake_app/ComposeAppCommonTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/iosMain/kotlin/tien/code/cupcake_app/MainViewController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/iosMain/kotlin/tien/code/cupcake_app/Platform.ios.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/jvmMain/kotlin/tien/code/cupcake_app/Platform.jvm.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/composeApp/src/jvmMain/kotlin/tien/code/cupcake_app/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/iosApp/Configuration/Config.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/iosApp/iosApp.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/iosApp/iosApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/iosApp/iosApp/Assets.xcassets/AccentColor.colorset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/iosApp/iosApp/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/iosApp/iosApp/ContentView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/iosApp/iosApp/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/iosApp/iosApp/Preview Content/Preview Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/iosApp/iosApp/iOSApp.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cupcake-app/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/schedule/composeApp/src/androidMain/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/schedule/composeApp/src/androidMain/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/schedule/composeApp/src/androidMain/kotlin/vku/gay/schedule/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/test/schedule/composeApp/src/androidMain/kotlin/vku/gay/schedule/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/scheduleApp/composeApp/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/test/scheduleApp/composeApp/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/scheduleApp/composeApp/src/androidMain/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/scheduleApp/composeApp/src/androidMain/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/scheduleApp/composeApp/src/androidMain/kotlin/vku/gay/schedule/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/scheduleApp/composeApp/src/androidMain/kotlin/vku/gay/schedule/Platform.android.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/scheduleApp/composeApp/src/commonMain/kotlin/vku/gay/schedule/ApiClient.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/scheduleApp/composeApp/src/commonMain/kotlin/vku/gay/schedule/App.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/scheduleApp/composeApp/src/commonMain/kotlin/vku/gay/schedule/Greeting.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/scheduleApp/composeApp/src/commonMain/kotlin/vku/gay/schedule/Platform.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/scheduleApp/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/test/scheduleApp/gradle/libs.versions.toml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/BTVN Kotlinc/kotlinc/temp_repo" value="3CL1dHIwf36Z48IbTMBza3hKeQN" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="5513" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="temp_repo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="temp_repo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3CL1dHIwf36Z48IbTMBza3hKeQN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47951ea1-f362-40b3-b5a9-c159cd5d79d5" name="Changes" comment="" />
+      <created>1776150121982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776150121982</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
